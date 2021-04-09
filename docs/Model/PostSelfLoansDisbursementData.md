@@ -1,0 +1,11 @@
+# PostSelfLoansDisbursementData
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**expectedDisbursementDate** | **string** |  | [optional] 
+**principal** | **int** |  | [optional] 
+**approvedPrincipal** | **int** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

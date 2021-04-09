@@ -1,0 +1,13 @@
+# PostGlClosuresRequest
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**officeId** | **int** |  | [optional] 
+**closingDate** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**comments** | **string** |  | [optional] 
+**locale** | **string** |  | [optional] 
+**dateFormat** | **string** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

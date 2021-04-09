@@ -1,0 +1,14 @@
+# GetFromOfficeResponseStandingInstructionSwagger
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **int** |  | [optional] 
+**name** | **string** |  | [optional] 
+**decoratedName** | **string** |  | [optional] 
+**externalId** | **int** |  | [optional] 
+**openingDate** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**hierarchy** | **string** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

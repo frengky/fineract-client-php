@@ -1,0 +1,11 @@
+# GetReportsTemplateResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**allowedReportTypes** | **string[]** |  | [optional] 
+**allowedReportSubTypes** | **string[]** |  | [optional] 
+**allowedParameters** | [**\Frengky\Fineract\Model\ReportParameterData[]**](ReportParameterData.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

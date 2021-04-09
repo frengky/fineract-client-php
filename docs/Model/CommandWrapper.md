@@ -1,0 +1,48 @@
+# CommandWrapper
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**groupId** | **int** |  | [optional] 
+**clientId** | **int** |  | [optional] 
+**loanId** | **int** |  | [optional] 
+**savingsId** | **int** |  | [optional] 
+**entityName** | **string** |  | [optional] 
+**taskPermissionName** | **string** |  | [optional] 
+**entityId** | **int** |  | [optional] 
+**subentityId** | **int** |  | [optional] 
+**href** | **string** |  | [optional] 
+**json** | **string** |  | [optional] 
+**transactionId** | **string** |  | [optional] 
+**productId** | **int** |  | [optional] 
+**creditBureauId** | **int** |  | [optional] 
+**organisationCreditBureauId** | **int** |  | [optional] 
+**create** | **bool** |  | [optional] 
+**createDatatable** | **bool** |  | [optional] 
+**deleteDatatable** | **bool** |  | [optional] 
+**updateDatatable** | **bool** |  | [optional] 
+**datatableResource** | **bool** |  | [optional] 
+**deleteOneToOne** | **bool** |  | [optional] 
+**deleteMultiple** | **bool** |  | [optional] 
+**updateOneToOne** | **bool** |  | [optional] 
+**updateMultiple** | **bool** |  | [optional] 
+**registerDatatable** | **bool** |  | [optional] 
+**noteResource** | **bool** |  | [optional] 
+**cacheResource** | **bool** |  | [optional] 
+**updateOperation** | **bool** |  | [optional] 
+**delete** | **bool** |  | [optional] 
+**deleteOperation** | **bool** |  | [optional] 
+**surveyResource** | **bool** |  | [optional] 
+**registerSurvey** | **bool** |  | [optional] 
+**fullFilSurvey** | **bool** |  | [optional] 
+**workingDaysResource** | **bool** |  | [optional] 
+**passwordPreferencesResource** | **bool** |  | [optional] 
+**permissionResource** | **bool** |  | [optional] 
+**userResource** | **bool** |  | [optional] 
+**currencyResource** | **bool** |  | [optional] 
+**loanDisburseDetailResource** | **bool** |  | [optional] 
+**updateDisbursementDate** | **bool** |  | [optional] 
+**update** | **bool** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
